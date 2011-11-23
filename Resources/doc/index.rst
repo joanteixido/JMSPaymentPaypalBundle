@@ -15,6 +15,8 @@ Configuration
         username: your api username (not your account username)
         password: your api password (not your account password)
         signature: your api signature
+        return_url: an url when success payment
+        cancel_url: an error url form failure payment
 
 
 =====
